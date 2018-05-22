@@ -1,1 +1,32 @@
-s
+{
+  "name": "ootils",
+  "version": "1.0.0",
+  "description": "useful functions for node js",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shakkirptb/ootils.git"
+  },
+  "keywords": [
+    "util",
+	"utils",
+	"utilities",
+    "node js",
+    "node",
+	"array",
+    "query",
+    "query array"
+  ],
+  "author": "Muhammed Shakkir TK<shakkirptb@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shakkirptb/ootils/issues"
+  },
+  "homepage": "https://github.com/shakkirptb/ootils#readme"
+}
