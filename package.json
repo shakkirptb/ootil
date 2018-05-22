@@ -1,5 +1,5 @@
 {
-  "name": "ootils",
+  "name": "ootil",
   "version": "1.0.0",
   "description": "useful functions for node js",
   "main": "index.js",
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/shakkirptb/ootils.git"
+    "url": "git+https://github.com/shakkirptb/ootil.git"
   },
   "keywords": [
     "util",
@@ -26,7 +26,7 @@
   "author": "Muhammed Shakkir TK<shakkirptb@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shakkirptb/ootils/issues"
+    "url": "https://github.com/shakkirptb/ootil/issues"
   },
-  "homepage": "https://github.com/shakkirptb/ootils#readme"
+  "homepage": "https://github.com/shakkirptb/ootil#readme"
 }
