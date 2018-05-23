@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/shakkirptb/ootil.git"
   },
-   dependencies:{
+   "dependencies":{
 	"node4node":"*"
   },
   "keywords": [
