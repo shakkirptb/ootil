@@ -7,4 +7,4 @@
  * https://github.com/shakkirptb/ootils
  */
 
-module.exports =  require("./lib/ootils.js");
+module.exports =  require("./lib/ootil.js");
